@@ -1,0 +1,16 @@
+#btn1{
+    float:right; 
+}
+.container{
+    background-color: cadetblue;
+    width: 700px;
+    text-align: center;
+}
+li{
+    list-style-type: none;
+}
+body{
+    background-color: rgb(219, 211, 208);
+    
+}
+ 
